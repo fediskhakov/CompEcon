@@ -1,0 +1,16 @@
+scipy
+matplotlib
+numpy
+pandas
+seaborn
+cmath
+cycler
+decimal
+itertools
+pprint
+math
+optim
+random
+sys
+time
+unittest
