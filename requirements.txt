@@ -4,12 +4,5 @@ numpy
 pandas
 seaborn
 cycler
-decimal
-itertools
-pprint
-math
-optim
-random
-sys
-time
-unittest
+
+
