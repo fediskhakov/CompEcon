@@ -3,7 +3,6 @@ matplotlib
 numpy
 pandas
 seaborn
-cmath
 cycler
 decimal
 itertools
